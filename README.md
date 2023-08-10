@@ -1,2 +1,2 @@
 # .github
-Community health files for the Aventrio organization.
+Community health files for the VenturaSync organization.
